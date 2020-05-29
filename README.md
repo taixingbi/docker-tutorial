@@ -5,7 +5,7 @@
 
 ### run image
 ```
-docker run -it -p 8083:8083 -v ~/code:/code docker-name
+docker run -it -p 8083:8083 -v ~/Desktop/docker/code:/code docker-name
 ```
 
 ### access container
